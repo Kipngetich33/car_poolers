@@ -65,5 +65,4 @@ No known bugs yet since the app is still in development process
 * HTML
 * Heroku
 ## License
-MIT **[License(./LICENSE)]** (c) 2017 **[Kipngetich Ngeno(https://github.com/Kipngetich33/)]**
-
+MIT [License](./LICENSE) (c) 2017 [Kipngetich Ngeno](https://github.com/Kipngetich33/)
